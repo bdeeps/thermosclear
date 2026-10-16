@@ -1,0 +1,106 @@
+{
+  "slug": "thermosclear",
+  "box": 174,
+  "date": "2026-10-16",
+  "title": "ThermosClear",
+  "question": "How does a thermos work?",
+  "hook": "A steel flask keeps chai hot from breakfast to teatime with nothing at all: a gap emptied of air, two mirror-bright walls and a good stopper. Block heat's three escape routes in 3D, run twelve hours in twenty seconds, and find out why a fizzy drink should never go in one.",
+  "thumbText": "HOW A THERMOS WORKS",
+  "field": "physics",
+  "minutes": 12,
+  "tags": [
+    "thermos",
+    "vacuum flask",
+    "flask",
+    "insulation",
+    "heat transfer",
+    "radiation",
+    "vacuum",
+    "Newton's law of cooling",
+    "James Dewar",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A bottle inside a bottle",
+      "text": "A vacuum flask is two bottles, one inside the other, joined only in a thin ring at the neck. The air between them has been pumped out, the facing walls are shiny, and a stopper closes the mouth. All-steel flasks weld two steel bottles together; older ones hold a silvered glass refill in a case."
+    },
+    {
+      "title": "Three escapes, three blocks",
+      "text": "Heat leaves by conduction, convection and radiation. The vacuum stops the first two: with the 5 mm gap full of air, 90 °C chai would lose about 12 W by conduction, and with a vacuum only hundredths of a watt. Radiation crosses a vacuum, so the walls are shiny: dull walls would leak about 15 W, polished steel about 0.7 W."
+    },
+    {
+      "title": "The real leaks: neck and stopper",
+      "text": "Where the vacuum can't reach, heat still gets out: along the neck, where the walls are joined, and through the stopper. In a good 500 mL steel flask they carry over half of the roughly 2 W it loses at 90 °C."
+    },
+    {
+      "title": "Slow cooling, not no cooling",
+      "text": "A flask cools along the same curve as any hot drink, about twenty times more slowly than a jug with a lid. Started at 95 °C in a 20 °C room, a good steel flask is near 75 °C after 6 hours and 60 to 65 °C after 12. Half-full, it cools about twice as fast."
+    },
+    {
+      "title": "Making and losing the vacuum",
+      "text": "Removing half the air does nothing: conduction only falls once the gas is so thin that molecules cross the gap without meeting, below about 1 pascal. Steel flasks are sealed in a vacuum furnace with a getter to soak up stray hydrogen. If the outside of a flask gets warm, the vacuum has gone."
+    },
+    {
+      "title": "Use it safely",
+      "text": "Hot drinks in a flask stay hot enough to scald for hours. Never seal in a fizzy or fermenting drink: its gas can push on a 4 cm stopper like a weight of tens of kilograms. Food kept warm should stay above 60 °C, as the WHO advises."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Vacuum flask",
+      "def": "A double-walled bottle with the air pumped out of the gap between the walls. Often called a thermos, a former trademark that became an everyday word."
+    },
+    {
+      "term": "Conduction",
+      "def": "Heat passed on by molecules bumping into their neighbours. A vacuum has almost none to pass it on."
+    },
+    {
+      "term": "Radiation",
+      "def": "Heat carried by infrared light, which crosses a vacuum. Shiny walls block it."
+    },
+    {
+      "term": "Emissivity",
+      "def": "How strongly a surface glows in the infrared, from 0 to 1: about 0.03 for silvered glass, 0.075 for polished steel, 0.9 for a dull surface."
+    },
+    {
+      "term": "Mean free path",
+      "def": "How far a gas molecule travels before hitting another. In a good flask's gap it is longer than the gap itself."
+    },
+    {
+      "term": "Newton's law of cooling",
+      "def": "Heat flows out at a rate proportional to the temperature difference, so hot things cool fast at first and then slower."
+    },
+    {
+      "term": "Time constant",
+      "def": "Heat stored divided by heat lost per degree: about 20 hours for a good 500 mL steel flask, under an hour for a jug."
+    },
+    {
+      "term": "Getter",
+      "def": "A reactive metal sealed into a vacuum to soak up gas that seeps out of the walls later."
+    },
+    {
+      "term": "Danger zone",
+      "def": "About 5 to 60 °C, where germs in food multiply fastest. The WHO advises keeping cooked food above 60 °C."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "thermosclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

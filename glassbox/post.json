@@ -1,0 +1,126 @@
+{
+  "slug": "thermosclear",
+  "box": 174,
+  "question": "How does a thermos work?",
+  "url": "https://glassbox.how/e/thermosclear/",
+  "app": "https://glassbox.how/thermosclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From a tube of mercury in 1643 to a laboratory bottle of liquid air in 1892, and the steel flask in every Indian office bag.\n\n1650: The first air pump\n1804: Shiny surfaces glow less\n1892: Dewar's vacuum flask\n1898: Liquid hydrogen, kept in a flask\n1903: A flask for everyday use\n1904: The name Thermos\n\nThe full story, with 23 moments, sources and charts: glassbox.how/e/thermosclear/history (link in bio)\n\nThen play with how it works: glassbox.how/thermosclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #thermos #vacuumflask #flask #insulation #heattransfer #radiation #history",
+      "youtube": {
+        "title": "The history of the vacuum flask in 45 seconds #shorts",
+        "description": "From a tube of mercury in 1643 to a laboratory bottle of liquid air in 1892, and the steel flask in every Indian office bag.\n\n1650 · The first air pump (Otto von Guericke)\n1804 · Shiny surfaces glow less (John Leslie)\n1892 · Dewar's vacuum flask (James Dewar)\n1898 · Liquid hydrogen, kept in a flask (James Dewar)\n1903 · A flask for everyday use (Reinhold Burger)\n1904 · The name Thermos (Reinhold Burger)\n\n▶ Full history: https://glassbox.how/e/thermosclear/history/\n▶ Play with it: https://glassbox.how/e/thermosclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a thermos work?\n\nA steel flask keeps chai hot from breakfast to teatime with nothing at all: a gap emptied of air, two mirror-bright walls and a good stopper. Block heat's three escape routes in 3D, run twelve hours in twenty seconds, and find out why a fizzy drink should never go in one.\n\n→ A vacuum flask is a bottle inside a bottle, with the air pumped out of the gap between them.\n→ Fill the gap with air and 90 °C chai loses 12 watts by conduction. Pump it out and that falls to a few hundredths.\n→ A vacuum can't stop the infrared glow. Shiny walls can: dull ones would leak 15 watts.\n→ Twelve hours in twenty seconds: boiling water in a jug is cold by lunch. In the flask it is still about 60 °C.\n→ Half-full, the flask leaks almost as much heat but stores half as much, so it cools twice as fast.\n\nPlay with it yourself. It's free and open source: glassbox.how/thermosclear (link in bio)\n\nBox No. 174 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #thermos #vacuumflask #flask #insulation #heattransfer #radiation #vacuum #newtonslawofcooling #jamesdewar",
+    "carousel": "Swipe through: How does a thermos work?\n\nA steel flask keeps chai hot from breakfast to teatime with nothing at all: a gap emptied of air, two mirror-bright walls and a good stopper. Block heat's three escape routes in 3D, run twelve hours in twenty seconds, and find out why a fizzy drink should never go in one.\n\nSave this for later, then play with the interactive version at glassbox.how/thermosclear (link in bio).\n\nBox No. 174 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #thermos #vacuumflask #flask #insulation #heattransfer #radiation",
+    "youtube": {
+      "title": "How does a thermos work? #shorts",
+      "description": "A steel flask keeps chai hot from breakfast to teatime with nothing at all: a gap emptied of air, two mirror-bright walls and a good stopper. Block heat's three escape routes in 3D, run twelve hours in twenty seconds, and find out why a fizzy drink should never go in one.\n\n▶ Play with it: https://glassbox.how/e/thermosclear/\n⌘ Source code (MIT): https://github.com/bdeeps/thermosclear\n\nBox No. 174 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a thermos work? (interactive explainer)",
+      "description": "A steel flask keeps chai hot from breakfast to teatime with nothing at all: a gap emptied of air, two mirror-bright walls and a good stopper. Block heat's three escape routes in 3D, run twelve hours in twenty seconds, and find out why a fizzy drink should never go in one.\n\n▶ Play with the interactive version: https://glassbox.how/e/thermosclear/\n⌘ Source code (MIT): https://github.com/bdeeps/thermosclear\n\nIn this video:\n• A bottle inside a bottle. A vacuum flask is two bottles, one inside the other, joined only in a thin ring at the neck.\n• Three escapes, three blocks. Heat leaves by conduction, convection and radiation.\n• The real leaks: neck and stopper. Where the vacuum can't reach, heat still gets out: along the neck, where the walls are joined, and through the stopper.\n• Slow cooling, not no cooling. A flask cools along the same curve as any hot drink, about twenty times more slowly than a jug with a lid.\n• Making and losing the vacuum. Removing half the air does nothing: conduction only falls once the gas is so thin that molecules cross the gap without meeting, below about 1 pascal.\n• Use it safely. Hot drinks in a flask stay hot enough to scald for hours.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a thermos work?\n\nA steel flask keeps chai hot from breakfast to teatime with nothing at all: a gap emptied of air, two mirror-bright walls and a good stopper.\n\nPlay with it: https://glassbox.how/e/thermosclear/",
+    "linkedin": "How does a thermos work?\n\nA steel flask keeps chai hot from breakfast to teatime with nothing at all: a gap emptied of air, two mirror-bright walls and a good stopper. Block heat's three escape routes in 3D, run twelve hours in twenty seconds, and find out why a fizzy drink should never go in one.\n\n1. A bottle inside a bottle\n2. Three escapes, three blocks\n3. The real leaks: neck and stopper\n4. Slow cooling, not no cooling\n5. Making and losing the vacuum\n6. Use it safely\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 174 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/thermosclear/\nCode: https://github.com/bdeeps/thermosclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-16T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-16T10:16:43.336Z"
+}
